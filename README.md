@@ -11,8 +11,8 @@ pip install boto3
 ## Parameters
 
 * log streat name (string)--<br>[REQUIRED]
-* start date (string)--<br>[REQUIRED]<br>[%Y/%m%dT%H:%M]
-* end date (string)--<br>[%Y/%m%dT%H:%M]
+* start date (string)--<br>[REQUIRED]<br>[%Y/%m/%dT%H:%M]
+* end date (string)--<br>[%Y/%m/%dT%H:%M]
 
 
 ```
