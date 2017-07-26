@@ -1,6 +1,5 @@
 import boto3
 from datetime import *
-import time
 import sys
 import os
 
